@@ -1,7 +1,22 @@
 # DoxygenTest
 
 
-## 初めてのMD
+## 初めてmdを触ってみる
+
+
+### **参考にしたHP**
+- gitやgithub簡単に使えた。  
+[【超入門】初心者のためのGitとGitHubの使い方](https://tech-blog.rakus.co.jp/entry/20200529/git)  
+- markdownの基本をつかめた。  
+[Markdown記法/書き方（見出し・表・リンク・画像・文字色など）](https://notepm.jp/help/how-to-markdown)  
+- VSCodeでJava環境を構築するにはがわかる。  
+[Visual Studio CodeでJavaの開発環境を構築。拡張機能の導入手順](https://www.fenet.jp/java/column/tool/5893/)  
+
+### **参考にしたYOUTUBE**  
+- プロの講義がタダで聞けて、コスパ良し  
+[世界一わかりやすいCSS講座！](https://www.youtube.com/watch?v=Tu6pWncYy4U)  
+
+### **以下、マークダウンで遊ぶ。**
 
 - １行目
 - ２行目
