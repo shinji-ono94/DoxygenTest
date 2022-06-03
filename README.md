@@ -16,6 +16,15 @@
 - プロの講義がタダで聞けて、コスパ良し  
 [世界一わかりやすいCSS講座！](https://www.youtube.com/watch?v=Tu6pWncYy4U)  
 
+### **使用したコマンド**
+- javadoc -encoding utf-8 -d C:\Users\1530s\DoxygenTest\javadoc\ C:\Users\1530s\DoxygenTest\test.java  
+- git init  
+- git add
+- git commit -m
+- git push origin master
+- git pull
+- git remote add origin https://github.com/shinji-ono94/DoxygenTest.git
+
 ### **以下、マークダウンで遊ぶ。**
 
 - １行目
