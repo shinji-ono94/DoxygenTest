@@ -16,7 +16,7 @@ public class test {
     */
     public static void main(String[] args) {
   
-      s = "Javadoc生成確認";
+      s = "Javadoc生成確認です。";
   
       printMessage(s);
   
